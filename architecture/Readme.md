@@ -6,7 +6,7 @@
 
 ## Service Diagram
 
-![Service Diagram](./MoviesArch-LocalServices.png)
+![Service Diagram](./MoviesArch-Main.drawio.png)
 
 src = ./MoviesArch.drawio
 
